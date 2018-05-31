@@ -1,1 +1,4 @@
+
 Esta es la edicion de cristian
+
+>>>>>>> f080e397044b10b2bac4237003583cd74583a026
